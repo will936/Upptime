@@ -19,6 +19,7 @@ status-website:
   name: Status
   introTitle: "*will.cymru Status*"
   introMessage: 
+  theme: dark
   navbar:
     - title: Status
       href: /
