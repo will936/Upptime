@@ -9,8 +9,6 @@ sites:
     url: https://emby.will.cymru
   - name: Nextcloud
     url: https://files.will.cymru
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,7 +17,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: img/icon.svg
   name: Status
-  introTitle: ""
+  introTitle: "*will.cymru Status*"
   introMessage: 
   navbar:
     - title: Status
