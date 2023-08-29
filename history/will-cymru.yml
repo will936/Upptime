@@ -1,7 +1,7 @@
 url: https://www.will.cymru
-status: up
-code: 200
-responseTime: 723
-lastUpdated: 2023-08-28T23:11:47.140Z
+status: down
+code: 502
+responseTime: 3628
+lastUpdated: 2023-08-29T06:34:56.617Z
 startTime: 2023-01-21T21:45:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
