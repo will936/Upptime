@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.08%",
     "time": 1419,
-    "timeDay": 570,
-    "timeWeek": 1079,
+    "timeDay": 670,
+    "timeWeek": 1038,
     "timeMonth": 878,
     "timeYear": 1499,
     "dailyMinutesDown": {
@@ -40,8 +40,7 @@
       "2023-09-01": 22,
       "2023-08-12": 30,
       "2023-07-29": 1035,
-      "2023-07-28": 1440,
-      "2023-07-27": 1379
+      "2023-07-28": 1440
     }
   },
   {
@@ -50,15 +49,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "95.41%",
+    "uptime": "95.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.05%",
-    "time": 750,
-    "timeDay": 510,
-    "timeWeek": 758,
-    "timeMonth": 661,
+    "time": 751,
+    "timeDay": 682,
+    "timeWeek": 751,
+    "timeMonth": 664,
     "timeYear": 709,
     "dailyMinutesDown": {
       "2024-06-04": 294,
@@ -97,8 +96,7 @@
       "2023-08-29": 237,
       "2023-08-12": 30,
       "2023-07-29": 1035,
-      "2023-07-28": 1440,
-      "2023-07-27": 1379
+      "2023-07-28": 1440
     }
   },
   {
@@ -112,10 +110,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.98%",
-    "time": 735,
-    "timeDay": 394,
-    "timeWeek": 692,
-    "timeMonth": 639,
+    "time": 734,
+    "timeDay": 296,
+    "timeWeek": 653,
+    "timeMonth": 629,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2024-06-04": 294,
