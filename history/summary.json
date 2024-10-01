@@ -11,9 +11,9 @@
     "uptimeMonth": "91.94%",
     "uptimeYear": "98.22%",
     "time": 1430,
-    "timeDay": 722,
-    "timeWeek": 720,
-    "timeMonth": 696,
+    "timeDay": 724,
+    "timeWeek": 722,
+    "timeMonth": 705,
     "timeYear": 1348,
     "dailyMinutesDown": {
       "2024-09-22": 59,
@@ -41,8 +41,7 @@
       "2023-11-17": 139,
       "2023-11-08": 72,
       "2023-11-07": 73,
-      "2023-10-03": 1044,
-      "2023-10-02": 610
+      "2023-10-03": 1044
     }
   },
   {
@@ -51,15 +50,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "91.43%",
+    "uptime": "91.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "28.06%",
+    "uptimeMonth": "34.65%",
     "uptimeYear": "91.41%",
-    "time": 700,
-    "timeDay": 666,
-    "timeWeek": 624,
-    "timeMonth": 604,
+    "time": 701,
+    "timeDay": 533,
+    "timeWeek": 618,
+    "timeMonth": 605,
     "timeYear": 688,
     "dailyMinutesDown": {
       "2024-09-22": 59,
@@ -112,8 +111,7 @@
       "2023-11-17": 105,
       "2023-11-08": 72,
       "2023-11-07": 73,
-      "2023-10-03": 1044,
-      "2023-10-02": 610
+      "2023-10-03": 1044
     }
   },
   {
@@ -122,15 +120,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.will.cymru.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "94.92%",
+    "uptime": "94.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "28.06%",
+    "uptimeMonth": "34.65%",
     "uptimeYear": "91.41%",
     "time": 714,
-    "timeDay": 458,
-    "timeWeek": 668,
-    "timeMonth": 618,
+    "timeDay": 650,
+    "timeWeek": 667,
+    "timeMonth": 620,
     "timeYear": 716,
     "dailyMinutesDown": {
       "2024-09-22": 59,
@@ -183,8 +181,7 @@
       "2023-11-17": 139,
       "2023-11-08": 72,
       "2023-11-07": 73,
-      "2023-10-03": 1044,
-      "2023-10-02": 610
+      "2023-10-03": 1044
     }
   }
 ]
