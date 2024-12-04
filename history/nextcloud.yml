@@ -1,7 +1,7 @@
 url: https://files.will.cymru
-status: up
-code: 200
-responseTime: 1078
-lastUpdated: 2024-12-03T23:16:33.274Z
+status: down
+code: 502
+responseTime: 21366
+lastUpdated: 2024-12-04T13:02:16.696Z
 startTime: 2023-01-21T21:45:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
