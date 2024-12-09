@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.will.cymru.ico",
     "slug": "will-cymru",
     "status": "up",
-    "uptime": "97.39%",
+    "uptime": "97.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.80%",
     "uptimeMonth": "96.96%",
     "uptimeYear": "98.33%",
     "time": 1428,
-    "timeDay": 976,
-    "timeWeek": 5504,
-    "timeMonth": 2061,
+    "timeDay": 585,
+    "timeWeek": 5502,
+    "timeMonth": 2064,
     "timeYear": 1330,
     "dailyMinutesDown": {
       "2024-12-05": 671,
@@ -38,8 +38,7 @@
       "2024-02-27": 42,
       "2024-01-30": 346,
       "2024-01-16": 117,
-      "2023-12-17": 85,
-      "2023-12-10": 75
+      "2023-12-17": 85
     }
   },
   {
@@ -48,14 +47,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "92.15%",
+    "uptime": "92.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.81%",
     "uptimeMonth": "96.96%",
     "uptimeYear": "91.51%",
     "time": 751,
-    "timeDay": 1249,
-    "timeWeek": 5553,
+    "timeDay": 675,
+    "timeWeek": 5583,
     "timeMonth": 2040,
     "timeYear": 773,
     "dailyMinutesDown": {
@@ -106,8 +105,7 @@
       "2024-02-27": 42,
       "2024-01-30": 346,
       "2024-01-16": 121,
-      "2023-12-17": 60,
-      "2023-12-10": 75
+      "2023-12-17": 60
     }
   },
   {
@@ -116,16 +114,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.will.cymru.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "95.29%",
+    "uptime": "95.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.82%",
     "uptimeMonth": "96.97%",
     "uptimeYear": "91.51%",
     "time": 767,
-    "timeDay": 1409,
-    "timeWeek": 5590,
-    "timeMonth": 2041,
-    "timeYear": 801,
+    "timeDay": 706,
+    "timeWeek": 5609,
+    "timeMonth": 2048,
+    "timeYear": 802,
     "dailyMinutesDown": {
       "2024-12-05": 671,
       "2024-12-04": 658,
@@ -174,8 +172,7 @@
       "2024-02-27": 42,
       "2024-01-30": 346,
       "2024-01-16": 112,
-      "2023-12-17": 85,
-      "2023-12-10": 75
+      "2023-12-17": 85
     }
   }
 ]
