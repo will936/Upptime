@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.96%",
     "uptimeYear": "98.42%",
-    "time": 1428,
-    "timeDay": 624,
-    "timeWeek": 689,
-    "timeMonth": 2058,
+    "time": 1425,
+    "timeDay": 739,
+    "timeWeek": 711,
+    "timeMonth": 2061,
     "timeYear": 1323,
     "dailyMinutesDown": {
       "2024-12-05": 671,
@@ -37,8 +37,7 @@
       "2024-02-29": 35,
       "2024-02-27": 42,
       "2024-01-30": 346,
-      "2024-01-16": 117,
-      "2023-12-17": 85
+      "2024-01-16": 117
     }
   },
   {
@@ -47,15 +46,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "92.23%",
+    "uptime": "92.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.96%",
     "uptimeYear": "91.61%",
-    "time": 751,
-    "timeDay": 587,
-    "timeWeek": 745,
-    "timeMonth": 2047,
+    "time": 752,
+    "timeDay": 524,
+    "timeWeek": 723,
+    "timeMonth": 2046,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2024-12-05": 671,
@@ -104,8 +103,7 @@
       "2024-02-29": 35,
       "2024-02-27": 42,
       "2024-01-30": 346,
-      "2024-01-16": 121,
-      "2023-12-17": 60
+      "2024-01-16": 121
     }
   },
   {
@@ -120,9 +118,9 @@
     "uptimeMonth": "96.97%",
     "uptimeYear": "91.61%",
     "time": 766,
-    "timeDay": 801,
+    "timeDay": 704,
     "timeWeek": 711,
-    "timeMonth": 2065,
+    "timeMonth": 2068,
     "timeYear": 800,
     "dailyMinutesDown": {
       "2024-12-05": 671,
@@ -171,8 +169,7 @@
       "2024-02-29": 34,
       "2024-02-27": 42,
       "2024-01-30": 346,
-      "2024-01-16": 112,
-      "2023-12-17": 85
+      "2024-01-16": 112
     }
   }
 ]
