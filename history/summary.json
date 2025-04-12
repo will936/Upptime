@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.will.cymru.ico",
     "slug": "will-cymru",
     "status": "down",
-    "uptime": "92.01%",
+    "uptime": "91.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.79%",
-    "time": 2784,
-    "timeDay": 21462,
-    "timeWeek": 22019,
-    "timeMonth": 19081,
-    "timeYear": 3177,
+    "uptimeYear": "85.52%",
+    "time": 2820,
+    "timeDay": 21703,
+    "timeWeek": 22039,
+    "timeMonth": 19661,
+    "timeYear": 3227,
     "dailyMinutesDown": {
-      "2025-04-11": 79,
+      "2025-04-12": 77,
+      "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
@@ -83,8 +84,7 @@
       "2024-05-04": 569,
       "2024-04-20": 612,
       "2024-04-19": 170,
-      "2024-04-13": 191,
-      "2024-04-12": 35
+      "2024-04-13": 191
     }
   },
   {
@@ -93,18 +93,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "down",
-    "uptime": "87.57%",
+    "uptime": "87.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.98%",
-    "time": 2376,
-    "timeDay": 21378,
-    "timeWeek": 22017,
-    "timeMonth": 18902,
-    "timeYear": 3043,
+    "uptimeYear": "78.71%",
+    "time": 2411,
+    "timeDay": 21536,
+    "timeWeek": 21969,
+    "timeMonth": 19478,
+    "timeYear": 3092,
     "dailyMinutesDown": {
-      "2025-04-11": 79,
+      "2025-04-12": 77,
+      "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
@@ -196,8 +197,7 @@
       "2024-05-04": 569,
       "2024-04-20": 612,
       "2024-04-19": 169,
-      "2024-04-13": 191,
-      "2024-04-12": 35
+      "2024-04-13": 191
     }
   },
   {
@@ -206,18 +206,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.will.cymru.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "90.24%",
+    "uptime": "90.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.01%",
-    "time": 2397,
-    "timeDay": 21357,
-    "timeWeek": 21635,
-    "timeMonth": 18825,
-    "timeYear": 2998,
+    "uptimeYear": "78.73%",
+    "time": 2432,
+    "timeDay": 21593,
+    "timeWeek": 21663,
+    "timeMonth": 19396,
+    "timeYear": 3047,
     "dailyMinutesDown": {
-      "2025-04-11": 79,
+      "2025-04-12": 77,
+      "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
@@ -309,8 +310,7 @@
       "2024-05-04": 548,
       "2024-04-20": 612,
       "2024-04-19": 169,
-      "2024-04-13": 191,
-      "2024-04-12": 35
+      "2024-04-13": 191
     }
   }
 ]
