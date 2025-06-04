@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.will.cymru.ico",
     "slug": "will-cymru",
     "status": "up",
-    "uptime": "92.10%",
+    "uptime": "92.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "85.15%",
     "time": 2830,
-    "timeDay": 758,
-    "timeWeek": 885,
-    "timeMonth": 741,
-    "timeYear": 3402,
+    "timeDay": 823,
+    "timeWeek": 876,
+    "timeMonth": 743,
+    "timeYear": 3409,
     "dailyMinutesDown": {
       "2025-04-14": 701,
       "2025-04-13": 1440,
@@ -81,8 +81,7 @@
       "2024-08-23": 97,
       "2024-08-13": 19,
       "2024-08-03": 209,
-      "2024-08-02": 86,
-      "2024-06-04": 314
+      "2024-08-02": 86
     }
   },
   {
@@ -91,16 +90,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "87.94%",
+    "uptime": "87.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.34%",
     "time": 2518,
-    "timeDay": 295,
-    "timeWeek": 569,
-    "timeMonth": 657,
-    "timeYear": 3266,
+    "timeDay": 945,
+    "timeWeek": 626,
+    "timeMonth": 671,
+    "timeYear": 3275,
     "dailyMinutesDown": {
       "2025-04-14": 701,
       "2025-04-13": 1440,
@@ -192,8 +191,7 @@
       "2024-08-24": 628,
       "2024-08-23": 97,
       "2024-08-03": 209,
-      "2024-08-02": 86,
-      "2024-06-04": 294
+      "2024-08-02": 86
     }
   },
   {
@@ -202,16 +200,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.will.cymru.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "90.44%",
+    "uptime": "90.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.36%",
-    "time": 2484,
-    "timeDay": 627,
-    "timeWeek": 684,
-    "timeMonth": 686,
-    "timeYear": 3214,
+    "time": 2485,
+    "timeDay": 789,
+    "timeWeek": 644,
+    "timeMonth": 684,
+    "timeYear": 3221,
     "dailyMinutesDown": {
       "2025-04-14": 701,
       "2025-04-13": 1440,
@@ -303,8 +301,7 @@
       "2024-08-24": 628,
       "2024-08-23": 97,
       "2024-08-03": 210,
-      "2024-08-02": 86,
-      "2024-06-04": 294
+      "2024-08-02": 86
     }
   }
 ]
