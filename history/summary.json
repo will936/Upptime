@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.will.cymru.ico",
     "slug": "will-cymru",
     "status": "up",
-    "uptime": "92.37%",
+    "uptime": "92.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.91%",
     "uptimeYear": "84.62%",
     "time": 2718,
-    "timeDay": 625,
-    "timeWeek": 639,
-    "timeMonth": 1238,
-    "timeYear": 3446,
+    "timeDay": 561,
+    "timeWeek": 634,
+    "timeMonth": 1226,
+    "timeYear": 3445,
     "dailyMinutesDown": {
       "2025-07-10": 924,
       "2025-07-09": 1440,
@@ -83,8 +83,7 @@
       "2024-09-19": 591,
       "2024-08-23": 97,
       "2024-08-13": 19,
-      "2024-08-03": 209,
-      "2024-08-02": 86
+      "2024-08-03": 209
     }
   },
   {
@@ -93,15 +92,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "88.48%",
+    "uptime": "88.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.91%",
     "uptimeYear": "77.80%",
     "time": 2513,
-    "timeDay": 324,
-    "timeWeek": 563,
-    "timeMonth": 592,
+    "timeDay": 700,
+    "timeWeek": 591,
+    "timeMonth": 583,
     "timeYear": 3289,
     "dailyMinutesDown": {
       "2025-07-10": 924,
@@ -196,8 +195,7 @@
       "2024-08-25": 1418,
       "2024-08-24": 628,
       "2024-08-23": 97,
-      "2024-08-03": 209,
-      "2024-08-02": 86
+      "2024-08-03": 209
     }
   },
   {
@@ -206,15 +204,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.will.cymru.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "90.82%",
+    "uptime": "90.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.91%",
     "uptimeYear": "77.83%",
     "time": 2464,
-    "timeDay": 412,
-    "timeWeek": 533,
-    "timeMonth": 567,
+    "timeDay": 572,
+    "timeWeek": 536,
+    "timeMonth": 557,
     "timeYear": 3224,
     "dailyMinutesDown": {
       "2025-07-10": 924,
@@ -309,8 +307,7 @@
       "2024-08-25": 1418,
       "2024-08-24": 628,
       "2024-08-23": 97,
-      "2024-08-03": 210,
-      "2024-08-02": 86
+      "2024-08-03": 210
     }
   }
 ]
