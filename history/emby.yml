@@ -1,7 +1,7 @@
 url: https://emby.will.cymru
-status: up
-code: 200
-responseTime: 759
-lastUpdated: 2025-08-08T23:18:52.606Z
+status: down
+code: 530
+responseTime: 416
+lastUpdated: 2025-08-09T16:41:59.225Z
 startTime: 2023-01-21T21:45:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
