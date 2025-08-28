@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.will.cymru.ico",
     "slug": "will-cymru",
     "status": "up",
-    "uptime": "92.46%",
+    "uptime": "92.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.31%",
     "uptimeYear": "84.39%",
     "time": 2718,
-    "timeDay": 626,
-    "timeWeek": 2886,
-    "timeMonth": 1293,
-    "timeYear": 3488,
+    "timeDay": 1843,
+    "timeWeek": 3010,
+    "timeMonth": 1326,
+    "timeYear": 3490,
     "dailyMinutesDown": {
       "2025-08-10": 1177,
       "2025-08-09": 438,
@@ -91,15 +91,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "88.67%",
+    "uptime": "88.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.31%",
-    "uptimeYear": "78.25%",
+    "uptimeYear": "78.52%",
     "time": 2513,
-    "timeDay": 4764,
-    "timeWeek": 1288,
-    "timeMonth": 818,
+    "timeDay": 999,
+    "timeWeek": 1335,
+    "timeMonth": 830,
     "timeYear": 3340,
     "dailyMinutesDown": {
       "2025-08-10": 1177,
@@ -189,8 +189,7 @@
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
-      "2024-08-29": 1440,
-      "2024-08-28": 1440
+      "2024-08-29": 1440
     }
   },
   {
@@ -199,15 +198,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.will.cymru.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "90.95%",
+    "uptime": "90.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.31%",
-    "uptimeYear": "78.27%",
+    "uptimeYear": "78.55%",
     "time": 2433,
-    "timeDay": 3726,
+    "timeDay": 578,
     "timeWeek": 979,
-    "timeMonth": 694,
+    "timeMonth": 693,
     "timeYear": 3265,
     "dailyMinutesDown": {
       "2025-08-10": 1177,
@@ -297,8 +296,7 @@
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
-      "2024-08-29": 1440,
-      "2024-08-28": 1440
+      "2024-08-29": 1440
     }
   }
 ]
