@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.31%",
     "uptimeYear": "84.39%",
-    "time": 2716,
-    "timeDay": 415,
-    "timeWeek": 746,
-    "timeMonth": 1311,
+    "time": 2712,
+    "timeDay": 514,
+    "timeWeek": 732,
+    "timeMonth": 1308,
     "timeYear": 3489,
     "dailyMinutesDown": {
       "2025-08-10": 1177,
@@ -92,17 +92,16 @@
     "slug": "emby",
     "status": "up",
     "uptime": "88.73%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "96.29%",
-    "uptimeYear": "79.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.31%",
+    "uptimeYear": "79.62%",
     "time": 2542,
-    "timeDay": 6880,
-    "timeWeek": 3203,
-    "timeMonth": 1322,
+    "timeDay": 6936,
+    "timeWeek": 3214,
+    "timeMonth": 1331,
     "timeYear": 3373,
     "dailyMinutesDown": {
-      "2025-08-31": 9,
       "2025-08-10": 1177,
       "2025-08-09": 438,
       "2025-07-10": 924,
@@ -186,8 +185,7 @@
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
-      "2024-09-02": 1440,
-      "2024-09-01": 1440
+      "2024-09-02": 1440
     }
   },
   {
@@ -196,16 +194,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.will.cymru.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "90.99%",
+    "uptime": "91.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.31%",
-    "uptimeYear": "79.48%",
+    "uptimeYear": "79.65%",
     "time": 2432,
-    "timeDay": 637,
-    "timeWeek": 1027,
-    "timeMonth": 695,
-    "timeYear": 3264,
+    "timeDay": 611,
+    "timeWeek": 1057,
+    "timeMonth": 700,
+    "timeYear": 3265,
     "dailyMinutesDown": {
       "2025-08-10": 1177,
       "2025-08-09": 438,
@@ -290,8 +288,7 @@
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
-      "2024-09-02": 1440,
-      "2024-09-01": 1440
+      "2024-09-02": 1440
     }
   }
 ]
