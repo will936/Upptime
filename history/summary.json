@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.will.cymru.ico",
     "slug": "will-cymru",
     "status": "up",
-    "uptime": "92.51%",
+    "uptime": "92.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.91%",
     "uptimeMonth": "97.68%",
     "uptimeYear": "84.20%",
-    "time": 2695,
-    "timeDay": 834,
-    "timeWeek": 699,
-    "timeMonth": 1277,
+    "time": 2694,
+    "timeDay": 610,
+    "timeWeek": 679,
+    "timeMonth": 1275,
     "timeYear": 3474,
     "dailyMinutesDown": {
       "2025-09-10": 819,
@@ -93,15 +93,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "88.79%",
+    "uptime": "88.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.70%",
+    "uptimeWeek": "89.91%",
     "uptimeMonth": "97.63%",
-    "uptimeYear": "82.44%",
+    "uptimeYear": "82.71%",
     "time": 2543,
-    "timeDay": 687,
-    "timeWeek": 913,
-    "timeMonth": 1379,
+    "timeDay": 479,
+    "timeWeek": 706,
+    "timeMonth": 1365,
     "timeYear": 3354,
     "dailyMinutesDown": {
       "2025-09-10": 819,
@@ -178,8 +178,7 @@
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
-      "2024-09-14": 1440,
-      "2024-09-13": 1440
+      "2024-09-14": 1440
     }
   },
   {
@@ -188,16 +187,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.will.cymru.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "91.03%",
+    "uptime": "91.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.70%",
+    "uptimeWeek": "89.91%",
     "uptimeMonth": "97.63%",
-    "uptimeYear": "82.46%",
-    "time": 2427,
-    "timeDay": 517,
-    "timeWeek": 620,
+    "uptimeYear": "82.73%",
+    "time": 2428,
+    "timeDay": 543,
+    "timeWeek": 625,
     "timeMonth": 727,
-    "timeYear": 3239,
+    "timeYear": 3238,
     "dailyMinutesDown": {
       "2025-09-10": 819,
       "2025-09-09": 198,
@@ -273,8 +272,7 @@
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
-      "2024-09-14": 1440,
-      "2024-09-13": 1440
+      "2024-09-14": 1440
     }
   }
 ]
