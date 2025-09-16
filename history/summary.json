@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.will.cymru.ico",
     "slug": "will-cymru",
     "status": "up",
-    "uptime": "92.54%",
+    "uptime": "92.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.91%",
     "uptimeMonth": "97.68%",
     "uptimeYear": "84.20%",
     "time": 2695,
-    "timeDay": 790,
-    "timeWeek": 696,
-    "timeMonth": 1283,
+    "timeDay": 747,
+    "timeWeek": 664,
+    "timeMonth": 1284,
     "timeYear": 3474,
     "dailyMinutesDown": {
       "2025-09-10": 819,
@@ -93,15 +93,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "88.82%",
+    "uptime": "88.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.91%",
     "uptimeMonth": "97.63%",
-    "uptimeYear": "83.26%",
+    "uptimeYear": "83.53%",
     "time": 2544,
-    "timeDay": 863,
-    "timeWeek": 650,
-    "timeMonth": 1363,
+    "timeDay": 605,
+    "timeWeek": 600,
+    "timeMonth": 1356,
     "timeYear": 3354,
     "dailyMinutesDown": {
       "2025-09-10": 819,
@@ -175,8 +175,7 @@
       "2024-09-20": 1440,
       "2024-09-19": 591,
       "2024-09-18": 697,
-      "2024-09-17": 1440,
-      "2024-09-16": 1440
+      "2024-09-17": 1440
     }
   },
   {
@@ -185,15 +184,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.will.cymru.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "91.05%",
+    "uptime": "91.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.91%",
     "uptimeMonth": "97.63%",
-    "uptimeYear": "83.28%",
-    "time": 2424,
-    "timeDay": 683,
-    "timeWeek": 605,
-    "timeMonth": 720,
+    "uptimeYear": "83.55%",
+    "time": 2425,
+    "timeDay": 833,
+    "timeWeek": 588,
+    "timeMonth": 729,
     "timeYear": 3239,
     "dailyMinutesDown": {
       "2025-09-10": 819,
@@ -267,8 +266,7 @@
       "2024-09-20": 1440,
       "2024-09-19": 591,
       "2024-09-18": 697,
-      "2024-09-17": 1440,
-      "2024-09-16": 1440
+      "2024-09-17": 1440
     }
   }
 ]
