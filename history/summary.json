@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.will.cymru.ico",
     "slug": "will-cymru",
     "status": "up",
-    "uptime": "92.56%",
+    "uptime": "92.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.68%",
     "uptimeYear": "84.20%",
     "time": 2695,
-    "timeDay": 731,
-    "timeWeek": 736,
-    "timeMonth": 1279,
-    "timeYear": 3474,
+    "timeDay": 632,
+    "timeWeek": 708,
+    "timeMonth": 1270,
+    "timeYear": 3475,
     "dailyMinutesDown": {
       "2025-09-10": 819,
       "2025-09-09": 198,
@@ -83,8 +83,7 @@
       "2024-10-25": 36,
       "2024-09-22": 59,
       "2024-09-21": 1440,
-      "2024-09-20": 1440,
-      "2024-09-19": 591
+      "2024-09-20": 1440
     }
   },
   {
@@ -93,16 +92,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "88.86%",
+    "uptime": "88.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.63%",
-    "uptimeYear": "84.08%",
-    "time": 2545,
-    "timeDay": 723,
-    "timeWeek": 683,
-    "timeMonth": 1367,
-    "timeYear": 3355,
+    "uptimeYear": "84.20%",
+    "time": 2544,
+    "timeDay": 479,
+    "timeWeek": 654,
+    "timeMonth": 1354,
+    "timeYear": 3374,
     "dailyMinutesDown": {
       "2025-09-10": 819,
       "2025-09-09": 198,
@@ -172,8 +171,7 @@
       "2024-10-25": 36,
       "2024-09-22": 59,
       "2024-09-21": 1440,
-      "2024-09-20": 1440,
-      "2024-09-19": 591
+      "2024-09-20": 1440
     }
   },
   {
@@ -182,16 +180,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.will.cymru.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "91.08%",
+    "uptime": "91.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.63%",
-    "uptimeYear": "84.10%",
+    "uptimeYear": "84.22%",
     "time": 2425,
-    "timeDay": 695,
-    "timeWeek": 611,
-    "timeMonth": 716,
-    "timeYear": 3239,
+    "timeDay": 406,
+    "timeWeek": 595,
+    "timeMonth": 702,
+    "timeYear": 3258,
     "dailyMinutesDown": {
       "2025-09-10": 819,
       "2025-09-09": 198,
@@ -261,8 +259,7 @@
       "2024-10-25": 36,
       "2024-09-22": 59,
       "2024-09-21": 1440,
-      "2024-09-20": 1440,
-      "2024-09-19": 591
+      "2024-09-20": 1440
     }
   }
 ]
