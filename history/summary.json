@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.will.cymru.ico",
     "slug": "will-cymru",
     "status": "up",
-    "uptime": "92.75%",
+    "uptime": "92.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.58%",
     "uptimeYear": "84.67%",
     "time": 2644,
-    "timeDay": 729,
-    "timeWeek": 665,
+    "timeDay": 650,
+    "timeWeek": 689,
     "timeMonth": 687,
     "timeYear": 3460,
     "dailyMinutesDown": {
@@ -81,8 +81,7 @@
       "2025-01-17": 759,
       "2025-01-16": 347,
       "2024-12-05": 671,
-      "2024-12-04": 660,
-      "2024-10-25": 36
+      "2024-12-04": 660
     }
   },
   {
@@ -91,15 +90,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "89.18%",
+    "uptime": "89.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.58%",
     "uptimeYear": "84.67%",
     "time": 2543,
-    "timeDay": 974,
-    "timeWeek": 832,
-    "timeMonth": 814,
+    "timeDay": 561,
+    "timeWeek": 852,
+    "timeMonth": 809,
     "timeYear": 3388,
     "dailyMinutesDown": {
       "2025-10-11": 503,
@@ -168,8 +167,7 @@
       "2025-01-17": 759,
       "2025-01-16": 346,
       "2024-12-05": 671,
-      "2024-12-04": 659,
-      "2024-10-25": 36
+      "2024-12-04": 659
     }
   },
   {
@@ -178,15 +176,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.will.cymru.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "91.33%",
+    "uptime": "91.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.58%",
     "uptimeYear": "84.69%",
-    "time": 2416,
-    "timeDay": 913,
-    "timeWeek": 674,
-    "timeMonth": 621,
+    "time": 2417,
+    "timeDay": 970,
+    "timeWeek": 716,
+    "timeMonth": 639,
     "timeYear": 3258,
     "dailyMinutesDown": {
       "2025-10-11": 503,
@@ -255,8 +253,7 @@
       "2025-01-17": 759,
       "2025-01-16": 345,
       "2024-12-05": 671,
-      "2024-12-04": 658,
-      "2024-10-25": 36
+      "2024-12-04": 658
     }
   }
 ]
