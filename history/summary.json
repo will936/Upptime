@@ -6,15 +6,15 @@
     "slug": "will-cymru",
     "status": "up",
     "uptime": "93.03%",
-    "uptimeDay": "98.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "84.64%",
+    "uptimeYear": "84.78%",
     "time": 2688,
-    "timeDay": 7435,
-    "timeWeek": 2943,
-    "timeMonth": 1279,
-    "timeYear": 3533,
+    "timeDay": 897,
+    "timeWeek": 2980,
+    "timeMonth": 1280,
+    "timeYear": 3438,
     "dailyMinutesDown": {
       "2025-12-03": 22,
       "2025-11-18": 144,
@@ -81,8 +81,7 @@
       "2025-01-19": 1440,
       "2025-01-18": 318,
       "2025-01-17": 759,
-      "2025-01-16": 347,
-      "2024-12-05": 671
+      "2025-01-16": 347
     }
   },
   {
@@ -91,16 +90,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "89.60%",
-    "uptimeDay": "98.57%",
+    "uptime": "89.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "84.65%",
+    "uptimeYear": "84.79%",
     "time": 2578,
-    "timeDay": 7215,
-    "timeWeek": 2808,
+    "timeDay": 684,
+    "timeWeek": 2816,
     "timeMonth": 1174,
-    "timeYear": 3456,
+    "timeYear": 3359,
     "dailyMinutesDown": {
       "2025-12-03": 21,
       "2025-11-18": 118,
@@ -168,8 +167,7 @@
       "2025-01-19": 1440,
       "2025-01-18": 317,
       "2025-01-17": 759,
-      "2025-01-16": 346,
-      "2024-12-05": 671
+      "2025-01-16": 346
     }
   },
   {
@@ -182,12 +180,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "84.66%",
+    "uptimeYear": "84.81%",
     "time": 2430,
-    "timeDay": 675,
-    "timeWeek": 597,
-    "timeMonth": 635,
-    "timeYear": 3287,
+    "timeDay": 802,
+    "timeWeek": 626,
+    "timeMonth": 640,
+    "timeYear": 3190,
     "dailyMinutesDown": {
       "2025-11-18": 165,
       "2025-10-11": 503,
@@ -254,8 +252,7 @@
       "2025-01-19": 1440,
       "2025-01-18": 316,
       "2025-01-17": 759,
-      "2025-01-16": 345,
-      "2024-12-05": 671
+      "2025-01-16": 345
     }
   }
 ]
