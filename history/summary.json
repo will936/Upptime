@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.66%",
-    "uptimeYear": "84.91%",
-    "time": 2726,
-    "timeDay": 952,
-    "timeWeek": 678,
+    "uptimeYear": "85.18%",
+    "time": 2727,
+    "timeDay": 1084,
+    "timeWeek": 738,
     "timeMonth": 1371,
-    "timeYear": 3263,
+    "timeYear": 3212,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 816,
@@ -78,8 +78,7 @@
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 804,
-      "2025-02-24": 735,
-      "2025-01-20": 108
+      "2025-02-24": 735
     }
   },
   {
@@ -88,16 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "89.94%",
+    "uptime": "89.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.66%",
-    "uptimeYear": "84.91%",
-    "time": 2587,
-    "timeDay": 643,
-    "timeWeek": 673,
+    "uptimeYear": "85.19%",
+    "time": 2588,
+    "timeDay": 867,
+    "timeWeek": 666,
     "timeMonth": 760,
-    "timeYear": 3166,
+    "timeYear": 3115,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 815,
@@ -162,8 +161,7 @@
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 790,
-      "2025-02-24": 735,
-      "2025-01-20": 108
+      "2025-02-24": 735
     }
   },
   {
@@ -172,16 +170,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.will.cymru.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "91.91%",
+    "uptime": "91.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.66%",
-    "uptimeYear": "84.93%",
-    "time": 2438,
-    "timeDay": 551,
-    "timeWeek": 580,
-    "timeMonth": 732,
-    "timeYear": 2991,
+    "uptimeYear": "85.18%",
+    "time": 2439,
+    "timeDay": 688,
+    "timeWeek": 552,
+    "timeMonth": 720,
+    "timeYear": 2902,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 815,
@@ -245,8 +243,7 @@
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 788,
-      "2025-02-24": 735,
-      "2025-01-20": 1
+      "2025-02-24": 735
     }
   }
 ]
