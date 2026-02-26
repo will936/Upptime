@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.will.cymru.ico",
     "slug": "will-cymru",
     "status": "up",
-    "uptime": "93.45%",
+    "uptime": "93.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.34%",
-    "time": 2698,
-    "timeDay": 704,
-    "timeWeek": 748,
-    "timeMonth": 898,
-    "timeYear": 3173,
+    "uptimeYear": "85.50%",
+    "time": 2699,
+    "timeDay": 1344,
+    "timeWeek": 843,
+    "timeMonth": 918,
+    "timeYear": 3040,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 816,
@@ -75,8 +75,7 @@
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1292,
-      "2025-02-27": 1440,
-      "2025-02-26": 1440
+      "2025-02-27": 1440
     }
   },
   {
@@ -85,16 +84,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "90.27%",
+    "uptime": "90.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.35%",
-    "time": 2587,
-    "timeDay": 646,
-    "timeWeek": 601,
-    "timeMonth": 651,
-    "timeYear": 3061,
+    "uptimeYear": "85.50%",
+    "time": 2589,
+    "timeDay": 2096,
+    "timeWeek": 844,
+    "timeMonth": 687,
+    "timeYear": 2894,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 815,
@@ -156,8 +155,7 @@
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1292,
-      "2025-02-27": 1440,
-      "2025-02-26": 1440
+      "2025-02-27": 1440
     }
   },
   {
@@ -166,16 +164,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.will.cymru.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "92.18%",
+    "uptime": "92.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.35%",
-    "time": 2437,
-    "timeDay": 504,
-    "timeWeek": 688,
-    "timeMonth": 631,
-    "timeYear": 2846,
+    "uptimeYear": "85.50%",
+    "time": 2807,
+    "timeDay": 1769,
+    "timeWeek": 837,
+    "timeMonth": 673,
+    "timeYear": 2710,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 815,
@@ -236,8 +234,7 @@
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1292,
-      "2025-02-27": 1440,
-      "2025-02-26": 1440
+      "2025-02-27": 1440
     }
   }
 ]
