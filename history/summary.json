@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.50%",
+    "uptimeYear": "85.77%",
     "time": 2699,
-    "timeDay": 1344,
-    "timeWeek": 843,
-    "timeMonth": 918,
-    "timeYear": 3040,
+    "timeDay": 622,
+    "timeWeek": 823,
+    "timeMonth": 909,
+    "timeYear": 2987,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 816,
@@ -74,8 +74,7 @@
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
-      "2025-02-28": 1292,
-      "2025-02-27": 1440
+      "2025-02-28": 1292
     }
   },
   {
@@ -84,16 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "90.28%",
+    "uptime": "90.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.50%",
+    "uptimeYear": "85.77%",
     "time": 2589,
-    "timeDay": 2096,
-    "timeWeek": 844,
-    "timeMonth": 687,
-    "timeYear": 2894,
+    "timeDay": 675,
+    "timeWeek": 840,
+    "timeMonth": 682,
+    "timeYear": 2842,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 815,
@@ -154,8 +153,7 @@
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
-      "2025-02-28": 1292,
-      "2025-02-27": 1440
+      "2025-02-28": 1292
     }
   },
   {
@@ -168,12 +166,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.50%",
-    "time": 2807,
-    "timeDay": 1769,
-    "timeWeek": 837,
-    "timeMonth": 673,
-    "timeYear": 2710,
+    "uptimeYear": "85.77%",
+    "time": 2808,
+    "timeDay": 1016,
+    "timeWeek": 898,
+    "timeMonth": 685,
+    "timeYear": 2658,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 815,
@@ -233,8 +231,7 @@
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
-      "2025-02-28": 1292,
-      "2025-02-27": 1440
+      "2025-02-28": 1292
     }
   }
 ]
