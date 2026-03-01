@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.04%",
+    "uptimeYear": "86.29%",
     "time": 2699,
-    "timeDay": 690,
-    "timeWeek": 799,
-    "timeMonth": 910,
-    "timeYear": 2935,
+    "timeDay": 836,
+    "timeWeek": 824,
+    "timeMonth": 739,
+    "timeYear": 2948,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 816,
@@ -72,8 +72,7 @@
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
-      "2025-03-02": 1440,
-      "2025-03-01": 1440
+      "2025-03-02": 1440
     }
   },
   {
@@ -86,12 +85,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.05%",
+    "uptimeYear": "86.30%",
     "time": 2589,
-    "timeDay": 597,
-    "timeWeek": 875,
-    "timeMonth": 675,
-    "timeYear": 2791,
+    "timeDay": 621,
+    "timeWeek": 878,
+    "timeMonth": 661,
+    "timeYear": 2800,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 815,
@@ -150,8 +149,7 @@
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
-      "2025-03-02": 1440,
-      "2025-03-01": 1440
+      "2025-03-02": 1440
     }
   },
   {
@@ -160,16 +158,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.will.cymru.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "92.20%",
+    "uptime": "92.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.04%",
-    "time": 2808,
-    "timeDay": 762,
-    "timeWeek": 878,
-    "timeMonth": 697,
-    "timeYear": 2606,
+    "uptimeYear": "86.29%",
+    "time": 2807,
+    "timeDay": 733,
+    "timeWeek": 876,
+    "timeMonth": 719,
+    "timeYear": 2616,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 815,
@@ -227,8 +225,7 @@
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
-      "2025-03-02": 1440,
-      "2025-03-01": 1440
+      "2025-03-02": 1440
     }
   }
 ]
