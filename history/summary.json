@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.will.cymru.ico",
     "slug": "will-cymru",
     "status": "up",
-    "uptime": "93.47%",
+    "uptime": "93.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.29%",
+    "uptimeYear": "86.57%",
     "time": 2699,
-    "timeDay": 836,
-    "timeWeek": 824,
-    "timeMonth": 739,
-    "timeYear": 2948,
+    "timeDay": 1037,
+    "timeWeek": 875,
+    "timeMonth": 753,
+    "timeYear": 2945,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 816,
@@ -71,8 +71,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
-      "2025-03-03": 1440,
-      "2025-03-02": 1440
+      "2025-03-03": 1440
     }
   },
   {
@@ -81,16 +80,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "90.30%",
+    "uptime": "90.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.30%",
-    "time": 2589,
-    "timeDay": 621,
-    "timeWeek": 878,
-    "timeMonth": 661,
-    "timeYear": 2800,
+    "uptimeYear": "86.57%",
+    "time": 2590,
+    "timeDay": 1001,
+    "timeWeek": 903,
+    "timeMonth": 674,
+    "timeYear": 2802,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 815,
@@ -148,8 +147,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
-      "2025-03-03": 1440,
-      "2025-03-02": 1440
+      "2025-03-03": 1440
     }
   },
   {
@@ -162,11 +160,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.29%",
-    "time": 2807,
-    "timeDay": 733,
-    "timeWeek": 876,
-    "timeMonth": 719,
+    "uptimeYear": "86.56%",
+    "time": 2808,
+    "timeDay": 386,
+    "timeWeek": 842,
+    "timeMonth": 708,
     "timeYear": 2616,
     "dailyMinutesDown": {
       "2026-01-09": 648,
@@ -224,8 +222,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
-      "2025-03-03": 1440,
-      "2025-03-02": 1440
+      "2025-03-03": 1440
     }
   }
 ]
