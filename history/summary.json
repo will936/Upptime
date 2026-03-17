@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.37%",
-    "time": 3005,
-    "timeDay": 860,
-    "timeWeek": 683,
-    "timeMonth": 734,
-    "timeYear": 2659,
+    "uptimeYear": "90.63%",
+    "time": 3003,
+    "timeDay": 303,
+    "timeWeek": 622,
+    "timeMonth": 721,
+    "timeYear": 2610,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 816,
@@ -56,8 +56,7 @@
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
-      "2025-03-18": 1440,
-      "2025-03-17": 1347
+      "2025-03-18": 1440
     }
   },
   {
@@ -66,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "90.43%",
+    "uptime": "90.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.38%",
-    "time": 2893,
-    "timeDay": 798,
-    "timeWeek": 760,
-    "timeMonth": 727,
-    "timeYear": 2520,
+    "uptimeYear": "90.63%",
+    "time": 2892,
+    "timeDay": 450,
+    "timeWeek": 706,
+    "timeMonth": 717,
+    "timeYear": 2470,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 815,
@@ -118,8 +117,7 @@
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
-      "2025-03-18": 1440,
-      "2025-03-17": 1346
+      "2025-03-18": 1440
     }
   },
   {
@@ -128,16 +126,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.will.cymru.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "92.31%",
+    "uptime": "92.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.37%",
-    "time": 2725,
-    "timeDay": 795,
-    "timeWeek": 645,
-    "timeMonth": 824,
-    "timeYear": 2337,
+    "uptimeYear": "90.63%",
+    "time": 2723,
+    "timeDay": 375,
+    "timeWeek": 578,
+    "timeMonth": 810,
+    "timeYear": 2286,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 815,
@@ -179,8 +177,7 @@
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
-      "2025-03-18": 1440,
-      "2025-03-17": 1345
+      "2025-03-18": 1440
     }
   }
 ]
