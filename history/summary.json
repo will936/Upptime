@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.81%",
-    "time": 3001,
-    "timeDay": 460,
-    "timeWeek": 569,
-    "timeMonth": 670,
-    "timeYear": 2084,
+    "uptimeYear": "93.08%",
+    "time": 3000,
+    "timeDay": 847,
+    "timeWeek": 604,
+    "timeMonth": 653,
+    "timeYear": 2030,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 816,
@@ -47,8 +47,7 @@
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
-      "2025-03-27": 1440,
-      "2025-03-26": 1440
+      "2025-03-27": 1440
     }
   },
   {
@@ -61,12 +60,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.81%",
+    "uptimeYear": "93.08%",
     "time": 2888,
-    "timeDay": 421,
-    "timeWeek": 545,
-    "timeMonth": 689,
-    "timeYear": 1946,
+    "timeDay": 774,
+    "timeWeek": 574,
+    "timeMonth": 642,
+    "timeYear": 1892,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 815,
@@ -100,8 +99,7 @@
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
-      "2025-03-27": 1440,
-      "2025-03-26": 1440
+      "2025-03-27": 1440
     }
   },
   {
@@ -110,16 +108,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.will.cymru.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "92.37%",
+    "uptime": "92.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.80%",
+    "uptimeYear": "93.08%",
     "time": 2718,
-    "timeDay": 451,
-    "timeWeek": 468,
-    "timeMonth": 749,
-    "timeYear": 1750,
+    "timeDay": 780,
+    "timeWeek": 520,
+    "timeMonth": 714,
+    "timeYear": 1696,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 815,
@@ -152,8 +150,7 @@
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
-      "2025-03-27": 1440,
-      "2025-03-26": 1440
+      "2025-03-27": 1440
     }
   }
 ]
