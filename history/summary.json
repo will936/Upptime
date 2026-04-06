@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.82%",
+    "uptimeYear": "96.10%",
     "time": 2999,
-    "timeDay": 857,
-    "timeWeek": 770,
-    "timeMonth": 677,
-    "timeYear": 1493,
+    "timeDay": 1037,
+    "timeWeek": 822,
+    "timeMonth": 687,
+    "timeYear": 1440,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 816,
@@ -36,8 +36,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   },
   {
@@ -50,12 +49,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.83%",
+    "uptimeYear": "96.10%",
     "time": 2886,
-    "timeDay": 883,
-    "timeWeek": 666,
+    "timeDay": 694,
+    "timeWeek": 686,
     "timeMonth": 635,
-    "timeYear": 1355,
+    "timeYear": 1301,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 815,
@@ -78,8 +77,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   },
   {
@@ -88,16 +86,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.will.cymru.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "92.44%",
+    "uptime": "92.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.82%",
+    "uptimeYear": "96.10%",
     "time": 2714,
-    "timeDay": 723,
-    "timeWeek": 486,
-    "timeMonth": 532,
-    "timeYear": 1143,
+    "timeDay": 536,
+    "timeWeek": 511,
+    "timeMonth": 534,
+    "timeYear": 1089,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 815,
@@ -119,8 +117,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   }
 ]
