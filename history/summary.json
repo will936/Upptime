@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.92%",
+    "uptimeYear": "97.20%",
     "time": 3002,
-    "timeDay": 714,
-    "timeWeek": 939,
-    "timeMonth": 745,
-    "timeYear": 1277,
+    "timeDay": 760,
+    "timeWeek": 971,
+    "timeMonth": 746,
+    "timeYear": 1223,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 816,
@@ -32,8 +32,7 @@
       "2025-04-14": 701,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   },
   {
@@ -42,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/emby.will.cymru.ico",
     "slug": "emby",
     "status": "up",
-    "uptime": "90.63%",
+    "uptime": "90.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.92%",
+    "uptimeYear": "97.20%",
     "time": 2911,
-    "timeDay": 969,
-    "timeWeek": 2537,
-    "timeMonth": 1056,
-    "timeYear": 1168,
+    "timeDay": 613,
+    "timeWeek": 2526,
+    "timeMonth": 1049,
+    "timeYear": 1113,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 815,
@@ -70,8 +69,7 @@
       "2025-04-14": 701,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   },
   {
@@ -84,12 +82,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.91%",
-    "time": 2713,
-    "timeDay": 534,
-    "timeWeek": 617,
-    "timeMonth": 549,
-    "timeYear": 925,
+    "uptimeYear": "97.19%",
+    "time": 2712,
+    "timeDay": 367,
+    "timeWeek": 578,
+    "timeMonth": 534,
+    "timeYear": 869,
     "dailyMinutesDown": {
       "2026-01-09": 648,
       "2026-01-08": 815,
@@ -107,8 +105,7 @@
       "2025-04-14": 701,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   }
 ]
